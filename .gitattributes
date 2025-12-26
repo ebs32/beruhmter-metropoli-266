@@ -1,0 +1,7 @@
+* -text -diff -merge
+
+.editorconfig  text eol=lf diff merge
+.gitattributes text eol=lf diff merge
+.gitignore     text eol=lf diff merge
+LICENSE        text eol=lf diff merge
+README         text eol=lf diff merge
