@@ -1,0 +1,248 @@
+(ExpressProject "RPM Counter"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "22.1 S008 (4165805)  [1/15/2024]-[01/31/26]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\libraries\device.olb"
+        (Type "Schematic Library"))
+      (File "..\libraries\header.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "..\boards\allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\rpm_counter.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Top-Bottom")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_View_Output_Type "2")
+    (DRC_Preserved_Waived "FALSE")
+    (RUN_Online_Rules "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Check_Single_Node_Nets_Online "TRUE")
+    (DRC_Check_No_Driving_Source_Online "FALSE")
+    (DRC_Check_Duplicate_NetNames_Online "TRUE")
+    (DRC_Check_Off-Page_Connectors_Online "FALSE")
+    (DRC_Check_Ports_Online "FALSE")
+    (DRC_Check_Unconnected_Nets_Online "FALSE")
+    (DRC_Check_Floating_Pins_Online "FALSE")
+    (DRC_Run_Electrical_Reports "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility_Online "FALSE")
+    (DRC_Check_PCB_Footprint_Property_Online "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync_Online "FALSE")
+    (DRC_Check_Incorrect_PinGroup_Assignment_Online "TRUE")
+    (DRC_Check_Missing_Pin_Numbers_Online "TRUE")
+    (DRC_Check_Device_With_No_Pins_Online "FALSE")
+    (DRC_Check_Power_Ground_Short_Online "FALSE")
+    (DRC_Check_Name_Prop_For_HierBlocks_Online "FALSE")
+    (DRC_Run_Physical_Reports "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Run_Simulation_Rules "TRUE")
+    (DRC_Check_Pspice_Model_Lib_Path_Online "FALSE")
+    (DRC_Run_Custom_Rules "FALSE")
+    (DRC_Report_File
+       "C:\USERS\EDU\DOCUMENTS\PROJECTS\BERUHMTER-METROPOLI-266\DESIGN\ELECTRONIC\SCHEMATICS\RPM_COUNTER.DRC")
+    (Board_sim_option "VHDL_flow")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "TRUE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "..\boards\rpm_counter.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\USERS\EDU\DOCUMENTS\PROJECTS\BERUHMTER-METROPOLI-266\DESIGN\ELECTRONIC\SCHEMATICS\RPM_COUNTER.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Reference}\t{Manufacturer}\t{Part Number}\t{Package}\t{Value}\t{Quantity}\t{Description}")
+    (BOM_Header
+       "Reference\tManufacturer\tPart Number\tPackage\tValue\tQuantity\tDescription")
+    (BOM_Include_File
+       "C:\USERS\EDU\DOCUMENTS\PROJECTS\BERUHMTER-METROPOLI-266\DESIGN\ELECTRONIC\SCHEMATICS\RPM_COUNTER.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Layout"
+    (File "..\boards\rpm_counter.brd"
+      (Type "Board File")
+      (OutputBoard "..\boards\rpm_counter.brd")
+      (NetListPath "..\boards\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (C-POL
+      (FullPartName "C-POL.Normal")
+      (LibraryName
+         "C:\USERS\EDU\DOCUMENTS\PROJECTS\BERUHMTER-METROPOLI-266\DESIGN\ELECTRONIC\LIBRARIES\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\USERS\EDU\DOCUMENTS\PROJECTS\BERUHMTER-METROPOLI-266\DESIGN\ELECTRONIC\LIBRARIES\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (MSV3
+      (FullPartName "MSV3.Normal")
+      (LibraryName
+         "C:\USERS\EDU\DOCUMENTS\PROJECTS\BERUHMTER-METROPOLI-266\DESIGN\ELECTRONIC\LIBRARIES\HEADER.OLB")
+      (DeviceIndex "0"))
+    (MSV4
+      (FullPartName "MSV4.Normal")
+      (LibraryName
+         "C:\USERS\EDU\DOCUMENTS\PROJECTS\BERUHMTER-METROPOLI-266\DESIGN\ELECTRONIC\LIBRARIES\HEADER.OLB")
+      (DeviceIndex "0"))
+    (COMPARATOR
+      (FullPartName "COMPARATOR.Normal")
+      (LibraryName
+         "C:\USERS\EDU\DOCUMENTS\PROJECTS\BERUHMTER-METROPOLI-266\DESIGN\ELECTRONIC\LIBRARIES\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\USERS\EDU\DOCUMENTS\PROJECTS\BERUHMTER-METROPOLI-266\DESIGN\ELECTRONIC\LIBRARIES\DEVICE.OLB")
+      (DeviceIndex "0"))
+    ("IG-FET N"
+      (FullPartName "IG-FET N.Normal")
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\IEC\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (2N7002ET7G
+      (FullPartName "2N7002ET7G.Normal")
+      (LibraryName
+         "C:\USERS\EDU\DOCUMENTS\PROJECTS\BERUHMTER-METROPOLI-266\DESIGN\ELECTRONIC\UNCLASSIFIED\LIB_2N7002ET7G\2N7002ET7G\CAPTURE\2N7002ET7G.OLB")
+      (DeviceIndex "0"))
+    (BUK9637-100E,118
+      (FullPartName "BUK9637-100E,118.Normal")
+      (LibraryName
+         "C:\USERS\EDU\DOCUMENTS\PROJECTS\NIXIE-CLOCK\DESIGNS\ECAD\LIBRARIES\MOSFETS.OLB")
+      (DeviceIndex "0"))
+    ("N MOSFET"
+      (FullPartName "N MOSFET.Normal")
+      (LibraryName
+         "C:\USERS\EDU\DOCUMENTS\PROJECTS\BERUHMTER-METROPOLI-266\DESIGN\ELECTRONIC\LIBRARIES\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LM393
+      (FullPartName "LM393.Normal")
+      (LibraryName
+         "C:\USERS\EDU\DOCUMENTS\PROJECTS\BERUHMTER-METROPOLI-266\DESIGN\ELECTRONIC\LIBRARIES\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R-VAR
+      (FullPartName "R-VAR.Normal")
+      (LibraryName
+         "C:\USERS\EDU\DOCUMENTS\PROJECTS\BERUHMTER-METROPOLI-266\DESIGN\ELECTRONIC\LIBRARIES\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "C:\USERS\EDU\DOCUMENTS\PROJECTS\BERUHMTER-METROPOLI-266\DESIGN\ELECTRONIC\LIBRARIES\DEVICE.OLB")
+      (DeviceIndex "0"))
+    ("PHOTO NPN"
+      (FullPartName "PHOTO NPN.Normal")
+      (LibraryName
+         "C:\USERS\EDU\DOCUMENTS\PROJECTS\BERUHMTER-METROPOLI-266\DESIGN\ELECTRONIC\LIBRARIES\DEVICE.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "Edu")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Layout")
+      (Path "PSpice Resources")
+      (Select "Layout" "..\boards\rpm_counter.brd"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 277 0 725"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1597 24 743")
+        (Scroll "0 0")
+        (Zoom "230")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\EDU\DOCUMENTS\PROJECTS\BERUHMTER-METROPOLI-266\DESIGN\ELECTRONIC\SCHEMATICS\RPM_COUNTER.DSN")
+      (Schematic "RPM Counter")
+      (Page "Main")))
+  (ISPCBBASICLICENSE "false"))
