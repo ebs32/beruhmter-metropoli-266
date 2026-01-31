@@ -1,21 +1,28 @@
+AutoSave.brd
 master.tag
 
 *.dbk
+*.DSNlck
 *.jrl
 *.jrl,*
 *.lck
 *.log
 *.log,*
 *.net
+*.obk
+*.OLBlck
 *.raw
 *.rpt
 *.rpt,*
 *.txt
 *.txt,*
+*,*
 
 **/Research/
 **/Schematics/**/*.png
+**/Schematics/*-PSpiceFiles
 **/signoise.run/
+**/stepFacetFiles4Map/
 **/Unclassified/
 
 !art_param.txt

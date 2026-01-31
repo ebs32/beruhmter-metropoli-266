@@ -1,0 +1,76 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<STEP-3D-MAPPING revision="A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header lengthUnit="MM"/>
+  <Body>
+    <MapItem package="SOT95P237X102-3N">
+      <StepModel type="PRIMARY" file="SI2300DS-T1-GE3.stp">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="CAPPM7343X200N">
+      <StepModel type="PRIMARY" file="A700V106M016ATE045.stp">
+        <Offset x="-3.700000" y="-2.300000" z="0.100000"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="23671974_4P">
+      <StepModel type="PRIMARY" file="2367197-4.stp">
+        <Offset x="0.000000" y="0.198000" z="4.172000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="HUSRSP3W64P254_762X254X838P">
+      <StepModel type="PRIMARY" file="TSM-103-01-L-SV.stp">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="QSD123">
+      <StepModel type="PRIMARY" file="QSD124.stp">
+        <Offset x="1.264000" y="0.000000" z="18.000000"/>
+        <Rotation x="0.000" y="0.000" z="-0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="QED123A4R0">
+      <StepModel type="PRIMARY" file="QED123A4R0.stp">
+        <Offset x="0.000000" y="0.000000" z="18.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="RESC1608X55N">
+      <StepModel type="PRIMARY" file="R-1608.stp">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="CAPC1608X90N">
+      <StepModel type="PRIMARY" file="C-1608.stp">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="3269W1200LF">
+      <StepModel type="PRIMARY" file="3269W-1-253GLF.stp">
+        <Offset x="0.000000" y="0.000000" z="1.000000"/>
+        <Rotation x="90.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="SOT95P280X145-5N">
+      <StepModel type="PRIMARY" file="TLV3201AIDBVR.stp">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    </Body>
+  </STEP-3D-MAPPING>
