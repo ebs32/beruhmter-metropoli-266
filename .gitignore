@@ -1,4 +1,5 @@
 AutoSave.brd
+devices.dml
 master.tag
 
 *.dbk
@@ -8,6 +9,7 @@ master.tag
 *.lck
 *.log
 *.log,*
+*.lst
 *.net
 *.obk
 *.OLBlck
@@ -18,6 +20,8 @@ master.tag
 *.txt,*
 *,*
 
+**/Boards/Allegro
+**/Boards/Manufacturing/**
 **/Research/
 **/Schematics/**/*.png
 **/Schematics/*-PSpiceFiles
